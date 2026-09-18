@@ -1,3 +1,3 @@
-Here are some toy projects I do in my spare time to create fun things.
+<img src="welcome.svg" width="400" height="400">
 
-This profile is not a resume. 😄
+[leanrada.com](https://leanrada.com)
